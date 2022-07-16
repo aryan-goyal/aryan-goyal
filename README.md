@@ -4,5 +4,5 @@ I am a recent grad from the [University of Waterloo](https://uwaterloo.ca/) majo
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music.
 - 📫 How to reach me: aryan.goyal@uwaterloo.com
-- 😄 Pronouns: Programmer/He/Him
+- 😄 Pronouns: He/Him
 - 📝 We can connect on [LinkedIn](https://www.linkedin.com/in/aryan-goyal/)
